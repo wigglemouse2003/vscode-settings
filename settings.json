@@ -1,0 +1,43 @@
+{
+  "files.associations": {
+    "*.js": "javascript"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.menuBarVisibility": "default",
+  "window.restoreWindows": "all",
+  "debug.showInStatusBar": "always",
+  "workbench.sideBar.location": "left",
+  "workbench.settings.openDefaultKeybindings": true,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "terminal.explorerKind": "integrated",
+  "workbench.startupEditor": "welcomePage",
+  "workbench.colorCustomizations": {
+    "editor.foreground": "#008dff"
+  },
+  "editor.tokenColorCustomizations": {
+    "strings": "#7b68ee",
+    "variables": "#40e0ff",
+    "comments": "#349131",
+    "textMateRules": []
+  },
+  "workbench.editor.tabSizing": "shrink",
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "FlatUI Dark",
+  "extensions.showRecommendationsOnlyOnDemand": false,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": false,
+  "editor.minimap.enabled": false,
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "editor.columnSelection": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 0
+}
